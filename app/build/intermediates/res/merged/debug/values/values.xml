@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#ffb5dbbe</color>
+    <color name="text_foreground">#ff204027</color>
+    <string name="about_label">About</string>
+    <string formatted="false" name="about_text">\
+        Welcome to MyABC application. In MyABC you will learn letters of the alphabet (A through Z).\n
+        - A for apple\n
+        - B for baseball\n
+        - C for clock\n
+        - D for donkey\n
+        - E for elephant\n
+        - F for father\n
+        - G for grandmother\n
+        - H for hungry\n
+        - I for Internet\n
+        - J for justice\n
+        - K for kangaroo\n
+        - L for London\n
+        - M for monkey\n
+        - N for Norway\n
+        - O for overtime\n
+        - P for pillow\n
+        - Q for question\n
+        - R for rabbit\n
+        - S for superman\n
+        - T for telephone\n
+        - U for underwear\n
+        - V for vaccinate\n
+        - W for World Wide Web\n
+        - X for xylophone\n
+        - Y for yogurt\n
+        - Z for zebra\n
+
+</string>
+    <string name="app_name">MyABC</string>
+    <string name="exit_label">Close</string>
+    <string name="main_title">MyABC</string>
+    <string name="press_a_key">Choose a Letter!</string>
+    <string name="start_label">Start Lesson</string>
+</resources>

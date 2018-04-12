@@ -1,0 +1,180 @@
+[
+    {
+        "outputFile": "/Users/Rehab/Desktop/Open Source Project /Function 1/Alphabet Game/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 46,
+                    "endOffset": 97
+                },
+                "from": {
+                    "file": "/Users/Rehab/Desktop/Open Source Project /Function 1/Alphabet Game/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 1,
+                        "startOffset": 52,
+                        "endColumn": 43,
+                        "endOffset": 94
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 102,
+                    "endColumn": 51,
+                    "endOffset": 149
+                },
+                "from": {
+                    "file": "/Users/Rehab/Desktop/Open Source Project /Function 1/Alphabet Game/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 1,
+                        "startOffset": 96,
+                        "endColumn": 48,
+                        "endOffset": 143
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 154,
+                    "endColumn": 45,
+                    "endOffset": 195
+                },
+                "from": {
+                    "file": "/Users/Rehab/Desktop/Open Source Project /Function 1/Alphabet Game/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 200,
+                        "endColumn": 45,
+                        "endOffset": 241
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 200,
+                    "endLine": 34,
+                    "endColumn": 9,
+                    "endOffset": 1046
+                },
+                "from": {
+                    "file": "/Users/Rehab/Desktop/Open Source Project /Function 1/Alphabet Game/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 348,
+                        "endLine": 38,
+                        "endColumn": 9,
+                        "endOffset": 1194
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 1051,
+                    "endColumn": 42,
+                    "endOffset": 1089
+                },
+                "from": {
+                    "file": "/Users/Rehab/Desktop/Open Source Project /Function 1/Alphabet Game/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 100,
+                        "endColumn": 42,
+                        "endOffset": 138
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 1094,
+                    "endColumn": 44,
+                    "endOffset": 1134
+                },
+                "from": {
+                    "file": "/Users/Rehab/Desktop/Open Source Project /Function 1/Alphabet Game/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 246,
+                        "endColumn": 44,
+                        "endOffset": 286
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 1139,
+                    "endColumn": 44,
+                    "endOffset": 1179
+                },
+                "from": {
+                    "file": "/Users/Rehab/Desktop/Open Source Project /Function 1/Alphabet Game/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 44,
+                        "endOffset": 95
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 1184,
+                    "endColumn": 56,
+                    "endOffset": 1236
+                },
+                "from": {
+                    "file": "/Users/Rehab/Desktop/Open Source Project /Function 1/Alphabet Game/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 291,
+                        "endColumn": 56,
+                        "endOffset": 343
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 1241,
+                    "endColumn": 52,
+                    "endOffset": 1289
+                },
+                "from": {
+                    "file": "/Users/Rehab/Desktop/Open Source Project /Function 1/Alphabet Game/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 52,
+                        "endOffset": 195
+                    }
+                }
+            }
+        ]
+    }
+]

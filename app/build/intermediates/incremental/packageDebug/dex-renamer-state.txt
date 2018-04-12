@@ -1,0 +1,4 @@
+#Thu Apr 12 17:38:58 AST 2018
+base.0=/Users/Rehab/Desktop/Open Source Project /Function 1/Alphabet Game/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/Rehab/Desktop/Open Source Project /Function 1/Alphabet Game/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
