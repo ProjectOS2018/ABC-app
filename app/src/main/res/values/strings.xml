@@ -4,7 +4,7 @@
     <string name="app_name">MyABC</string>
    
     <string name="start_label">Start Lesson</string>
-    <string name="about_label">About</string>
+    <string name="about_label">About</string> //Nada: add about_label
     <string name="exit_label">Close</string>
     <string name="press_a_key">Choose a Letter!</string>
     
