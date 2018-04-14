@@ -7,6 +7,8 @@
     <string name="about_label">About</string>
     <string name="exit_label">Close</string>
     <string name="press_a_key">Choose a Letter!</string>
+    
+    //Nada: Add About strings
     <string name="about_text" formatted="false">\
         Welcome to MyABC application. In MyABC you will learn letters of the alphabet (A through Z).\n
         - A for apple\n
