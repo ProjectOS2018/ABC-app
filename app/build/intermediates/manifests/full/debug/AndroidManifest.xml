@@ -20,10 +20,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        //Nada: Adding About activity
-        <activity android:name=".About" 
-        	android:label="@string/about_label"
-        	android:theme="@android:style/Theme.Dialog"/>
+     
         <activity
             android:name="alphabet.Game"
             android:label="@string/main_title" />
