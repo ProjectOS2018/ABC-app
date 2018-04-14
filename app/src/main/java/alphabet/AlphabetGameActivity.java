@@ -23,11 +23,22 @@ public class AlphabetGameActivity extends Activity implements OnClickListener {
 		exitButton.setOnClickListener(this);
 		View startButton = findViewById(R.id.start_button);
 		startButton.setOnClickListener(this);
+		
+		//Nada: Add About listener
+		View aboutButton = findViewById(R.id.about_button);
+		aboutButton.setOnClickListener(this);
 	}
 
 	@Override
 	public void onClick(View v) {
 		switch (v.getId()) {
+				//Nada: add About case
+			case R.id.about_button:  
+			Log.d(LOG_TAG, "Starting About activity");
+			Intent i = new Intent(this, About.class);
+			startActivity(i);
+			break;
+				
 		case R.id.exit_button:
 			Log.d(LOG_TAG, "Exiting");
 			finish();
