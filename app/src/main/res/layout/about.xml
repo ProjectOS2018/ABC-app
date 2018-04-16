@@ -9,8 +9,7 @@
     android:fillViewport="true"
     android:padding="10dip">
 
-   <TextView
-       android:id="@+id/about_content"
+   <TextView android:id="@+id/about_content"
        android:layout_width="wrap_content"
        android:layout_height="wrap_content"
        android:fontFamily="sans-serif-medium"
