@@ -8,7 +8,7 @@
     <string name="exit_label">Close</string>
     <string name="press_a_key">Choose a Letter!</string>
     <string name="about_text" formatted="false">
-        Welcome to MyABC application. \n
+        Welcome to MyABC application. \n\n
         MyABC is an Android mobile application that supports fun alphabets learning to children.\n\n
         1- It provides letters of the alphabet (A through Z) along with photos, sounds, and words.\n
         2- It provides an attractive song video that facilitates the learning for children.\n
