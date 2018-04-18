@@ -33,7 +33,12 @@
          android:layout_width="150sp"
          android:layout_height="wrap_content"
 android:text="@string/start_label" />
-	//Nada: Add About button
+
+	<Button
+		android:id="@+id/song_button"
+		android:layout_width="150sp"
+		android:layout_height="wrap_content"
+		android:text="Play son" />
 
 
 	<Button
