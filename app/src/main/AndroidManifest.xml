@@ -16,5 +16,6 @@
           <activity android:name=".About" />
         <activity android:name=".Game" 
         	android:label="@string/main_title" />
+        <activity android:name=".Song" />
     </application>
 </manifest>
