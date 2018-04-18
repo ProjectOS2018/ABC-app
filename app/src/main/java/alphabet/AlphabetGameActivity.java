@@ -19,14 +19,18 @@ public class AlphabetGameActivity extends Activity implements OnClickListener {
 		setContentView(R.layout.main);
 
 		// Set up listeners
-		View exitButton = findViewById(R.id.exit_button);
-		exitButton.setOnClickListener(this);
-		View startButton = findViewById(R.id.start_button);
-		startButton.setOnClickListener(this);
-		
-		//Nada: Add About listener
 		View aboutButton = findViewById(R.id.about_button);
 		aboutButton.setOnClickListener(this);
+
+		View startButton = findViewById(R.id.start_button);
+		startButton.setOnClickListener(this);
+
+		View songButton = findViewById(R.id.song_button);
+		songButton.setOnClickListener(this);
+
+		View exitButton = findViewById(R.id.exit_button);
+		exitButton.setOnClickListener(this);
+
 	}
 
 	@Override
@@ -38,7 +42,16 @@ public class AlphabetGameActivity extends Activity implements OnClickListener {
 			Intent i = new Intent(this, About.class);
 			startActivity(i);
 			break;
-				
+
+			case R.id.song_button:
+				Log.d(LOG_TAG, "Starting Song activity");
+				Intent j = new Intent(this, Song.class);
+				startActivity(j);
+				break;
+
+
+
+
 		case R.id.exit_button:
 			Log.d(LOG_TAG, "Exiting");
 			finish();
